@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("gitTest02");
         System.out.println("master modified01");
         System.out.println("Branch01 modified 01");
+        System.out.println("push test");
     }
 }
